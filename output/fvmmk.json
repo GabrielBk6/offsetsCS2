@@ -1,35 +1,29 @@
-[?] Looking for FiveM Windwo... FiveM Found!
-
-Process-ID:     8952
-Processname:    FiveM_b3258_GTAProcess.exe
-FiveM Build:    3258
 Base Address:   0x7FF63DA80000
-
-[*] World: 0x25B14B0
-[*] ReplayInterFace: 0x1FBD4F0
-[*] ViewPort: 0x201DBA0
-[*] BlipList: 0x2023400
-[*] CamGameplayDirector: 0x201ED50
-[*] Camera: 0x201ED50
-[*] PlayerName: 0x2F1F678
-[*] Bullet instance: 0x42F4BF77
-[*] SetPedConfigFlag: 0xFFFFFFFF8B015AB2
-[*] Armor: 0x420B7C
-[*] HasEntityClearLosEntity: 0xFFFFFFFF8BC24FD6
-[*] ShootSingleBulletBetweenCoords: 0xFFFFFFFF8C1AEF77
-[*] PlayerAimingAt: 0x202C8D0
-[*] Swapchain : 0x2D2CAA0
-[*] GetPedLastWeaponImpactCoord : 0x492E5C23
-[*] GetFinalRenderedCamCoord: 0x48C9304E
-[*] GetCurrentPedWeapon : 0x48F8261A
-[*] NetworkGetNetworkIdFromEntity: 0x4926396F
-[*] AttachentityToEntity: 0x8FF662F
-[*] SetPedInVehicle : 0x20C4C7D3
-[*] TaskWarpPedInToVehicle : 0x9325B03
-[*] PlayerStamina: 0xFFFFFFFFF0A04667
-[*] WeaponDefenseModifier: 0x12A30B4
-[*] VehicleDamageModifier: 0x1197E8CD
-[*] VehicleDefense: 0xFFFFFFFF8B899E11
-[*] WeaponDefenseModifier2: 0x12A374F
-[*] MeleeWeaponDamageModifier: 0x11CD50B
-[*] MeleeWeaponDefenseModifier: 0x48524240
+World: 0x25B14B0
+ReplayInterFace: 0x1FBD4F0
+ViewPort: 0x201DBA0
+BlipList: 0x2023400
+CamGameplayDirector: 0x201ED50
+Camera: 0x201ED50
+PlayerName: 0x2F1F678
+Bullet instance: 0x42F4BF77
+SetPedConfigFlag: 0xFFFFFFFF8B015AB2
+Armor: 0x420B7C
+HasEntityClearLosEntity: 0xFFFFFFFF8BC24FD6
+ShootSingleBulletBetweenCoords: 0xFFFFFFFF8C1AEF77
+PlayerAimingAt: 0x202C8D0
+Swapchain : 0x2D2CAA0
+GetPedLastWeaponImpactCoord : 0x492E5C23
+GetFinalRenderedCamCoord: 0x48C9304E
+GetCurrentPedWeapon : 0x48F8261A
+NetworkGetNetworkIdFromEntity: 0x4926396F
+AttachentityToEntity: 0x8FF662F
+SetPedInVehicle : 0x20C4C7D3
+TaskWarpPedInToVehicle : 0x9325B03
+PlayerStamina: 0xFFFFFFFFF0A04667
+WeaponDefenseModifier: 0x12A30B4
+VehicleDamageModifier: 0x1197E8CD
+VehicleDefense: 0xFFFFFFFF8B899E11
+WeaponDefenseModifier2: 0x12A374F
+MeleeWeaponDamageModifier: 0x11CD50B
+MeleeWeaponDefenseModifier: 0x48524240
